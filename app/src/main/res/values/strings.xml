@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Storage Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="storage_dir0">[Storage 0]</string>
+    <string name="storage_dir1">[Storage 1]</string>
+    <string name="write_appdir">Write to appDir</string>
+    <string name="write_parentdir">Write to parentDir</string>
+</resources>
